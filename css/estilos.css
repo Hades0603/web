@@ -1,0 +1,152 @@
+.head .contenedor{
+    position:relative;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0x;
+    ;
+  }
+.head .texto-encima{
+    position: absolute;
+    left: 500px;
+    bottom: 200px;
+}
+
+.head .img{ 
+    height: 250px;}
+
+
+
+
+
+
+
+.cards{
+
+    margin: 10px 0px 100px 0px;
+    padding: -100%;
+}
+
+.video {
+  margin: 50px 0px 0px 225px;
+max-width: 70%;
+}
+ .card-body{
+  background-color: rgb(28, 28, 28);
+ }
+
+ 
+
+.button{text-decoration:none; text-align:center; 
+    padding:11px 32px; 
+    border:solid 1px #004F72; 
+    -webkit-border-radius:4px;
+    -moz-border-radius:4px; 
+    border-radius: 4px; 
+    font:18px Arial, Helvetica, sans-serif; 
+    font-weight:bold; 
+    color:#3af2f2; 
+    background-color:#111212; 
+    background-image: -moz-linear-gradient(top, #111212 0%, #1982A5 100%); 
+    background-image: -webkit-linear-gradient(top, #111212 0%, #1982A5 100%); 
+    background-image: -o-linear-gradient(top, #111212 0%, #1982A5 100%); 
+    background-image: -ms-linear-gradient(top, #111212 0% ,#1982A5 100%); 
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1982A5', endColorstr='#1982A5',GradientType=0 ); 
+    background-image: linear-gradient(top, #111212 0% ,#1982A5 100%);   
+    -webkit-box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff; 
+    -moz-box-shadow: 0px 0px 2px #bababa,  inset 0px 0px 1px #ffffff;  
+    box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;  
+     
+     }.button:hover{
+    padding:11px 32px; 
+    border:solid 1px #004F72; 
+    -webkit-border-radius:4px;
+    -moz-border-radius:4px; 
+    border-radius: 4px; 
+    font:18px Arial, Helvetica, sans-serif; 
+    font-weight:bold; 
+    color:#3af2f2; 
+    background-color:#111212; 
+    background-image: -moz-linear-gradient(top, #111212 0%, #1982A5 100%); 
+    background-image: -webkit-linear-gradient(top, #111212 0%, #1982A5 100%); 
+    background-image: -o-linear-gradient(top, #111212 0%, #1982A5 100%); 
+    background-image: -ms-linear-gradient(top, #111212 0% ,#1982A5 100%); 
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1982A5', endColorstr='#1982A5',GradientType=0 ); 
+    background-image: linear-gradient(top, #111212 0% ,#1982A5 100%);   
+    -webkit-box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff; 
+    -moz-box-shadow: 0px 0px 2px #bababa,  inset 0px 0px 1px #ffffff;  
+    box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;  
+     
+    }
+
+    Body{ 
+        background-color: #3BA4C7;
+    }
+
+
+.pp{
+
+    margin: 0% 0% 10% 0%;
+}
+
+.pp p {
+font-size: x-large;
+    background-color: rgb(28, 28, 28);
+    text-align: center;
+   margin-bottom: auto;
+    padding-top: 5%  100%;
+    display:block;
+}
+
+.asesores{
+    
+    text-align: left;
+   
+}
+
+.aa {
+    margin: 100px 300px 200px 0px;
+    
+}
+
+.aa img{
+    width:20% ;
+}
+.kk {
+    margin: 0px 500px 0px 0px;
+}
+
+
+.zz{
+   
+    background-color: #3b6ac7;
+}
+
+.zz .card{
+    padding: 100px 0px 100px 0px;
+    margin: 100px 0px 0px 0px;
+    background-color: rgb(28, 28, 28);
+    border: rgb(28, 28, 28);
+
+}
+.zz button{
+    text-decoration:none; text-align:center; 
+    padding:11px 32px; 
+    border:solid 1px #004F72; 
+    -webkit-border-radius:4px;
+    -moz-border-radius:4px; 
+    border-radius: 4px; 
+    font:18px Arial, Helvetica, sans-serif; 
+    font-weight:bold; 
+    color:#3af2f2; 
+    background-color:#111212; 
+    background-image: -moz-linear-gradient(top, #111212 0%, #2e2f31 100%); 
+    background-image: -webkit-linear-gradient(top, #111212 0%, #2e2f31 100%); 
+    background-image: -o-linear-gradient(top, #111212 0%, #2e2f31 100%); 
+    background-image: -ms-linear-gradient(top, #111212 0% , #2e2f31 100%); 
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2e2f31', endColorstr='#2e2f31',GradientType=0 ); 
+    background-image: linear-gradient(top, #111212 0% ,#2e2f31 100%);   
+    -webkit-box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff; 
+    -moz-box-shadow: 0px 0px 2px #bababa,  inset 0px 0px 1px #ffffff;  
+    box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;  
+    margin: 10px 300px 0px 0px;
+    
+}
